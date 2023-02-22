@@ -1,1 +1,1 @@
-# 42-get_next_line
+This project provides that you can read the line by line from a file.
